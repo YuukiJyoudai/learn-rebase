@@ -11,7 +11,8 @@ export default {
   created() {},
   mounted() {},
   methods: {}
-}
+};
 </script>
-<style soped="true" lang="less">
+
+<style scoped lang="less">
 </style>
